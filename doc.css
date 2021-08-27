@@ -1,0 +1,34 @@
+body {
+	font-family: sans-serif;
+}
+h1, h2, h3, h4, h5 {
+	color: #442EE0;
+}
+
+code, .code {
+	font-size: 12pt;
+	color: #373737;
+	background-color: #EDEDED;
+}
+
+.todo {
+	background-color: #FFF35E;
+}
+
+.body {
+	padding-left: 5pt;
+	font-size: 12pt;
+}
+
+.imagecontainer {
+	padding-left: 30pt;
+}
+
+.imagecaption {
+	font-size: 10pt;
+	color: #1D0638;
+}
+
+.tocsection {
+	margin-left: 10pt;
+}
